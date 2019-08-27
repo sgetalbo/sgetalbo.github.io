@@ -33,7 +33,7 @@ email:
   
 meetup:
   name: "Events"
-  baseURL: "https://meetup.com/
+  baseURL: "https://meetup.com/"
   icon: "fa-meetup"
 
 linkedin:
