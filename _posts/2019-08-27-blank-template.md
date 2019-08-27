@@ -2,7 +2,7 @@
 layout: post
 title: TITLE HERE
 subtitle: SUBTITLE HERE 
-tags: [tags] [inside] [square] [brackets]
+tags: [tags, inside, square, brackets]
 published: false
 ---
 
