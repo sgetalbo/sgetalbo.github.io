@@ -1,9 +1,0 @@
----
-layout: post
-title: First post!
-image: /img/rladiesmcr-sticker.png
-published: false
----
- Use this yaml for all future posts
- 
- Simply change published: false to true.
