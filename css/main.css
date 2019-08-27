@@ -7,7 +7,7 @@ layout: null
 /* --- General --- */
 
 body {
-  font-family: 'Oswald Bold', 'Oswald Light', serif;
+  font-family: Courier, "Courier New", "sans serif";
   font-size: 18px;
   color: #404040;
   position: relative;
@@ -22,7 +22,7 @@ p {
   margin: 30px 0;
 }
 h1,h2,h3,h4,h5,h6 {
-  font-family: 'Oswald', 'Oswald Light', 'Open sans', 'Arial', 'sans-serif';
+  font-family: Oswald, Arial, "sans-serif";
   font-weight: 800;
 }
 a {
