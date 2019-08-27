@@ -30,6 +30,11 @@ email:
   name: "Email me"
   baseURL: "mailto:"
   icon: "fa-envelope"
+  
+meetup:
+  name: "Events"
+  bseURL: "https://meetup.com/
+  icon: "fa-meetup"
 
 linkedin:
   name: "LinkedIn"
