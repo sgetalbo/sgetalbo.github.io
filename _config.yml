@@ -20,7 +20,7 @@ description: R-Ladies MCR blog
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About Us: "aboutme"
   Resources:
     - R-Ladies Global : "http://rladies.org/"
     - Our Github : "https://github.com/RLadiesManchester/"
@@ -71,8 +71,9 @@ author:
 social-network-links:
   rss: true
   email: "ellen@rladies.org"
+  meetup: rladies-manchester
   github: r-ladies-manchester
-  twitter: rladesmcr
+  twitter: rladiesmcr
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -89,8 +90,8 @@ social-network-links:
 # Select which share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
-  linkedin: true
+ # facebook: true
+ # linkedin: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
