@@ -12,7 +12,7 @@ As a diversity initiative, the mission of R-Ladies is to achieve proportionate r
 
 Our current organising commitee :
 
-Ellen Talbot [@etlbot1291](https://twitter.com/etalbot1291)
-Bethan Blakeley [@HoneycombBethan](https://twitter.com/HoneycombBethan)
+- Ellen Talbot [@etlbot1291](https://twitter.com/etalbot1291)
+- Bethan Blakeley [@HoneycombBethan](https://twitter.com/HoneycombBethan)
 
 Use the links at the bottom to get in touch with us on Twitter or via email!
