@@ -34,7 +34,7 @@ email:
 meetup:
   name: "Events"
   baseURL: "https://meetup.com/"
-  icon: "fa-meetup"
+  icon: "fa-calendar-check"
 
 linkedin:
   name: "LinkedIn"
