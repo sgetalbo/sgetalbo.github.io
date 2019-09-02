@@ -20,10 +20,11 @@ description: Freelance Data Scientist
 
 # List of links in the navigation bar
 navbar-links:
-  About Us: "aboutme"
+  About: "aboutme"
+  Services: "services"
   Resources:
     - R-Ladies Global : "http://rladies.org/"
-    - Our Github : "https://github.com/sgetalbo/"
+    - Github : "https://github.com/sgetalbo/"
   Blog: "blog/"
 # Author's home: "http://deanattali.com"
 
