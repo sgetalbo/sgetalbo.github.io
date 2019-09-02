@@ -20,6 +20,7 @@ description: R-Ladies MCR blog
 
 # List of links in the navigation bar
 navbar-links:
+  Home: ""
   About Us: "aboutme"
   Resources:
     - R-Ladies Global : "http://rladies.org/"
