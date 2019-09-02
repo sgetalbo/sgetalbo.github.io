@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: R-Ladies Manchester
+title: Ellen Talbot
 
 # Short description of your site
-description: R-Ladies MCR blog
+description: Freelance Data Scientist
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -23,9 +23,7 @@ navbar-links:
   About Us: "aboutme"
   Resources:
     - R-Ladies Global : "http://rladies.org/"
-    - Our Github : "https://github.com/RLadiesManchester/"
-    - Past Presentations : "https://github.com/RLadiesManchester/meetup-presentations_manchester/"
-  Sponsors: "sponsors"
+    - Our Github : "https://github.com/sgetalbo/"
   Blog: "blog/"
 # Author's home: "http://deanattali.com"
 
@@ -41,15 +39,15 @@ navbar-links:
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#E6CBE2"
-navbar-text-col: "#981C8A"
-navbar-children-col: "#B7A3BS"
+navbar-col: "#2c7873"
+navbar-text-col: "#021c1e"
+navbar-children-col: "#2c7873"
 page-col: "#FFFFFF"
-link-col: "#63005B"
-hover-col: "#981C8A"
-footer-col: "#F5F5F5"
-footer-text-col: "#3E183F"
-footer-link-col: "#3E183F"
+link-col: "#2c7873"
+hover-col: "#6fb98f"
+footer-col: "#2c7873"
+footer-text-col: "#004445"
+footer-link-col: "#6fb98f"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
@@ -71,10 +69,10 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "ellen@rladies.org"
+  email: "etalbot1291@gmail.com"
 #  meetup: rladies-manchester
-  github: r-ladies-manchester
-  twitter: rladiesmcr
+  github: sgetalbo
+  twitter: etalbot1291
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
