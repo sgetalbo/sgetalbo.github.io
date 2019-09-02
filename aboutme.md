@@ -1,18 +1,19 @@
 ---
 layout: page
-title: About Us
-subtitle: Who?
+title: About Me
+subtitle: 101 reasons to work with me
 ---
 
-R-Ladies Manchester is a local branch of the global R-Ladies organisation. The Manchester group was founded in 2016 and our mission is to promote gender diversity in the R community.
+I've just started writing up my Geographic Data Science PhD, which means I'm back out in the big wide world and looking for work! I live in Oldham in Greater Manchester and work remotely from my back bedroom, often with the dog by my side. 
 
-The R community suffers from an underrepresentation of minority genders (including but not limited to cis/trans women, trans men, non-binary, genderqueer, agender) in every role and area of participation, whether as leaders, package developers, conference speakers, conference participants, educators, or users (see recent stats).
+My skills include :
+ - R coding
+ - Data Analysis
+ - Cluster analysis and segmentation
+ - Spatial analysis
+ 
+I currently work with several companies and start-ups providing a bespoke data service to help them meet theirs and their clients needs. 
+ 
+I am also actively involved in the Manchester and Wider North West tech scene, organising R-Ladies Manchester events and working with Women in Data as their North West representative. 
 
-As a diversity initiative, the mission of R-Ladies is to achieve proportionate representation by encouraging, inspiring, and empowering people of genders currently underrepresented in the R community. R-Ladies’ primary focus, therefore, is on supporting minority gender R enthusiasts to achieve their programming potential, by building a collaborative global network of R leaders, mentors, learners, and developers to facilitate individual and collective progress worldwide.
-
-Our current organising commitee :
-
-- Ellen Talbot [@etlbot1291](https://twitter.com/etalbot1291)
-- Bethan Blakeley [@HoneycombBethan](https://twitter.com/HoneycombBethan)
-
-Use the links at the bottom to get in touch with us on Twitter or via email!
+If you have a data project in mind and could use an extra pair of hands, get in touch via twitter or email using the links below! 
